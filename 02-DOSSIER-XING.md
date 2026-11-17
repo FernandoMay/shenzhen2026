@@ -2,7 +2,7 @@
 
 **Research dossier — Shenzhen 2026/2027 collaboration campaign**
 **Author:** Fernando May Fuentes — B.Eng. Telematics Engineering, UPIITA-IPN (Mexico City)
-ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay
+ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay · Email: fmay130@gmail.com
 
 **Verified repos:**
 - https://github.com/FernandoMay/xing-core (Python)

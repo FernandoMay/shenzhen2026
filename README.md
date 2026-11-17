@@ -1,6 +1,6 @@
 # Shenzhen 2026 — Paquete Profesional de Colaboración
 
-**Preparado:** 17-nov-2026 · **Fernando May Fuentes** · B.Eng. Telemática UPIITA-IPN · ORCID 0009-0002-3953-5224
+**Preparado:** 17-nov-2026 · **Fernando May Fuentes** · fmay130@gmail.com · B.Eng. Telemática UPIITA-IPN · ORCID 0009-0002-3953-5224
 **Destinos:** muShenzhen (29-nov → 18-dic) · Maker Faire Shenzhen (12–13 dic) · SLAI 2027 · InnoX NexTech · XbotPark · 12 empresas/instituciones contactadas (19 correos enviados al 17-nov)
 
 Este paquete convierte los 19 correos enviados en un **material aprobable internamente**: cada empresa puede tomar un dossier, un deck y una propuesta y responder con una decisión.
@@ -39,7 +39,7 @@ Este paquete convierte los 19 correos enviados en un **material aprobable intern
 ## Checklist de acción (próximos 10 días)
 
 **Hoy / mañana:**
-- [ ] Definir email de contacto único y propagarlo en todos los archivos `[COMPLETAR]` (hallazgo #9 de auditoría)
+- [x] Definir email de contacto único: **fmay130@gmail.com** — propagado en dossiers, acuerdo de PI y decks (17-nov-2026)
 - [ ] Enviar `06-PITCH-DECK.html` + dossier correspondiente como adjunto a los follow-ups de día 7
 - [ ] Iniciar visa China + seguro + reservar vuelo CDMX–SZX (muShenzhen Express Visa Program) — presupuesto [COMPLETAR]
 - [ ] Escribir documento Beihang de 1 página (fechas, programa, profesor)

@@ -2,7 +2,7 @@
 
 **Project dossier — muShenzhen Garage 2026 (Nov 29 – Dec 18, C2 Hub, OCT-LOFT North)**
 **Author:** Fernando May Fuentes — B.Eng. Telematics Engineering, UPIITA-IPN (Mexico City)
-ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay
+ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay · Email: fmay130@gmail.com
 **Repo:** https://github.com/FernandoMay/biohealy-ipn (C++, MIT license, open source)
 
 ---

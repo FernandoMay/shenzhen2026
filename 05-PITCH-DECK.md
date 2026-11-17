@@ -11,7 +11,7 @@
 |---|---|
 | **Fernando May Fuentes** — Builder Profile · Shenzhen 2026 | **Fernando May Fuentes** — 创客档案 · 深圳 2026 |
 | B.Eng. Telematics Engineering (UPIITA-IPN, Mexico City). Software + hardware + research builder. | 电信工程学士（墨西哥 IPN-UPIITA）。软件 + 硬件 + 科研型创客。 |
-| GitHub: github.com/FernandoMay · LinkedIn: linkedin.com/in/fernandomay · ORCID: 0009-0002-3953-5224 | GitHub / LinkedIn / ORCID 同左 |
+| GitHub: github.com/FernandoMay · LinkedIn: linkedin.com/in/fernandomay · ORCID: 0009-0002-3953-5224 · Email: **fmay130@gmail.com** | GitHub / LinkedIn / ORCID 同左 · 邮箱：**fmay130@gmail.com** |
 | **Badge: muShanghai 2026 Co-Creator** (May 10 – Jun 6, Alibaba Hongqiao Center) | **徽章：muShanghai 2026 联合发起人**（5月10日–6月6日，阿里虹桥中心） |
 | Trip: muShenzhen, Nov 29 – Dec 18 2026 · C2 Hub OCT-LOFT North | 行程：muShenzhen，2026年11月29日–12月18日 · OCT-LOFT 北区 C2 Hub |
 
@@ -110,7 +110,7 @@
 | EN | 中文 |
 |---|---|
 | Let's build the hardware-software-research bridge between Mexico and Shenzhen. | 让我们共建墨西哥与深圳之间的「软硬件 + 科研」之桥。 |
-| GitHub: github.com/FernandoMay *(QR in visual deck)* · LinkedIn: linkedin.com/in/fernandomay · ORCID: 0009-0002-3953-5224 | GitHub / LinkedIn / ORCID 同左（视觉版含二维码） |
+| GitHub: github.com/FernandoMay *(QR in visual deck)* · LinkedIn: linkedin.com/in/fernandomay · ORCID: 0009-0002-3953-5224 · Email: **fmay130@gmail.com** | GitHub / LinkedIn / ORCID 同左（视觉版含二维码） · 邮箱：**fmay130@gmail.com** |
 | Final line: **"Four lines of work. One builder. Twenty days in Shenzhen."** | 结语：**「四条产线，一位创客，深圳二十天。」** |
 
 ---

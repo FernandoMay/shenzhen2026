@@ -77,7 +77,7 @@ Esta auditoría evalúa las 4 líneas de investigación/desarrollo y el portafol
 | 6 | Cifras de portfolio inconsistentes (`fmf-ecosystem` dice "447 proyectos"; GitHub público = 234) | Percibido como inflado | En material público usar solo "234 public repos" y contar los 4 como proyectos actuales | P0 |
 | 7 | `apps/PRODUCT-AUDIT.md` con QA pendiente (flujos admin privilegiados) | Sorpresa en demo en vivo | Completar la suite de tests privilegiados o demostrar solo flujos no-admin | P1 |
 | 8 | Correos enviados (19) sin adjuntos | Sin material que aprobar internamente | Este paquete (`shenzhen2026/`) es el adjunto; enviar deck+dossier en el follow-up | **P0** |
-| 9 | Email propio no fijado en documentos | Imposible que respondan | Definir email de contacto único y propagarlo en todos los archivos [COMPLETAR] | P0 |
+| 9 | ~~Email propio no fijado en documentos~~ **RESUELTO 17-nov:** fmay130@gmail.com propagado en dossiers, acuerdo de PI y decks | ~~Imposible que respondan~~ | Mantener el email como único punto de contacto en todo material nuevo | ✅ Cerrado |
 | 10 | Sin plan de visa/seguro China | Riesgo del viaje | Iniciar visa (muShenzhen tiene "Express Visa Program") y seguro de viaje ya | P0 |
 
 ---

@@ -10,7 +10,7 @@
 
 **Party A (Collaborator / 甲方):** [Company name], a company organized under the laws of [COMPLETAR], with address [COMPLETAR], represented by [COMPLETAR].
 
-**Party B (Builder / 乙方):** Fernando May Fuentes, individual, B.Eng. Telematics Engineering (UPIITA-IPN), ORCID 0009-0002-3953-5224, Mexico, email [COMPLETAR].
+**Party B (Builder / 乙方):** Fernando May Fuentes, individual, B.Eng. Telematics Engineering (UPIITA-IPN), ORCID 0009-0002-3953-5224, Mexico, email fmay130@gmail.com.
 
 **Purpose (目的):** A time-boxed collaboration during muShenzhen (Nov 29 – Dec 18, 2026) covering the project(s): ☐ BioHealy ☐ XING ☐ MIRAI ☐ Agentic Finance stack, limited to the scope in Annex A.
 
@@ -65,7 +65,7 @@
 
 **甲方（合作方）：** [公司名称]，依 [待补全] 法律设立，地址 [待补全]，代表 [待补全]。
 
-**乙方（建造者）：** Fernando May Fuentes，个人，通信工程学士（UPIITA-IPN，墨西哥），ORCID 0009-0002-3953-5224，墨西哥，邮箱 [待补全]。
+**乙方（建造者）：** Fernando May Fuentes，个人，通信工程学士（UPIITA-IPN，墨西哥），ORCID 0009-0002-3953-5224，墨西哥，邮箱 fmay130@gmail.com。
 
 **目的：** 在 muShenzhen 期间（2026年11月29日至12月18日）就附件A所列项目范围（☐ BioHealy ☐ XING ☐ MIRAI ☐ Agentic Finance）进行的限期合作。
 

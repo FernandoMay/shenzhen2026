@@ -2,7 +2,7 @@
 
 **Concept dossier — muShenzhen 2026 (Human Flourishing / Future Education track)**
 **Author:** Fernando May Fuentes — B.Eng. Telematics Engineering, UPIITA-IPN (Mexico City)
-ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay
+ORCID 0009-0002-3953-5224 · GitHub: https://github.com/FernandoMay · LinkedIn: https://linkedin.com/in/fernandomay · Email: fmay130@gmail.com
 
 **Status: concept + first pilots [COMPLETAR: especificar estado real de pilotos].**
 MIRAI does **not** yet have a public repo or published material. What exists today:
